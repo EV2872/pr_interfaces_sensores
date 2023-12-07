@@ -1,2 +1,2 @@
 # pr_interfaces_sensores
-![Gif consola](video.gif)
+![Gif consola](video.gif.gif)
